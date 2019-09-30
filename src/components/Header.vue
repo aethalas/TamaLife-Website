@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello World
+    Hello World - This is TamaLife!
   </div>
 </template>
 
